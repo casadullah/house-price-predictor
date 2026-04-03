@@ -29,3 +29,14 @@ jupyter notebook notebooks/house_price_analysis.ipynb
 ![Regression Line](regression_line.png)
 
 
+
+
+## Version 2 — Multiple Linear Regression
+
+| Model | Variables | R² |
+|-------|-----------|-----|
+| Simple Linear Regression | 1 (Area only) | 0.50 |
+| Multiple Linear Regression | 4 + Neighborhood | 0.76 |
+
+**Improvement: +25.8% more variability explained**
+
