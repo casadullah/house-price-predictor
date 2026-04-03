@@ -25,5 +25,5 @@ Python, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn
 pip install pandas numpy matplotlib seaborn statsmodels
 jupyter notebook notebooks/house_price_analysis.ipynb
 
-## Visualization
-![Regression Line](regression_line.png)
+<img width="800" height="500" alt="regression_line" src="https://github.com/user-attachments/assets/e66b55a0-e7d4-44ad-84c7-3f5e6efc2cbd" />
+
